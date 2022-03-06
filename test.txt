@@ -1,0 +1,77 @@
+1. Tại sao react ra đời ?
+Front end: HTML, CSS, Javascript
+React, Angular, Vue 
+===== 
+Run ?
+Quality Attributes : Avaiblility, Safety (Sercurity - cơ bản), Performace 
+Software: SRP, Readability,  Extensibility, Reuseability 
+OOP
+=====
+Back end: 
+- Python: Flask, Danjgo
+- Nodejs: Express
+- .NET : MVC render HTML, API
+- Java: Spring boost
+
+2. Cách hoạt động của react  ?
+- Three layers
+- MVC
+
+Ko có redraw 
+===
+dựa Data 
+Viết Render 
+==> Render HTML
+
+
+3. Thinking in React ?
+
+UI
+Data binding
+Business : onClick, onChange
+
+TodoList
+-UI : Header, TodoList, Form - trang tĩnh rồi
+-Data : items
+- Business : click 
+
+
+
+=============================
+- UI : 
+App 
+     - Header
+     - Form
+     - Card Word
+- Data: 
+     - Input
+     - Word : { }
+- Business: click 
+// fetch API
+
+// handle JSON
+
+Array
+Object
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

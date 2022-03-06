@@ -1,0 +1,13 @@
+WEB bất động sản 
+Thu thập Requirements
+--> cải tiến
+================================
+Database: mongodb, firebase ...
+Frontend : React
+Backend:  .NET
+=================================
+
+
+
+
+

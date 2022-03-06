@@ -1,0 +1,15 @@
+3 pages
+- Public pages
++ không quan trọng lắm
+
+- Protected pages
++ kiểm tra login hay chưa
++ chưa thì out
+/proctected
+
+- Hybrid pages
++ biết login hay chưa --> hiển thị thông tin
+/public
+
+- Chưa login 
+/login
