@@ -5,6 +5,10 @@ import GroupAddIcon from "@mui/icons-material/GroupAdd";
 import InviteByEmailModal from "../components/InviteByEmailModal";
 
 const ClassParticipants = () => {
+  const getCurrentId = () => {
+    return localStorage.getItem("currentId");
+  };
+
   const [target, setTarget] = useState("teacher");
   const [openInviteByEmail, setOpenInviteByEmail] = useState(false);
   const handleOpenInviteByEmail = (target) => {
